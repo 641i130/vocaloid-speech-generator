@@ -1,4 +1,4 @@
-# Vocaloid Speech Genereator
+# Vocaloid Speech Generator
 ## A Python program that creates a Vocaloid save that generated a sequence of speech using the text inputed in the program.
 
 The program will take in a string or a text file as an input as well as the version of Vocaloid and will output a save file to be opened with the version specified. 
